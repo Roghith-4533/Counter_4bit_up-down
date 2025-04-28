@@ -157,9 +157,6 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 
 ![Screenshot 2025-04-28 214119](https://github.com/user-attachments/assets/f748a1aa-1473-4e44-a24a-cf97441b46f0)
 
-![Screenshot 2025-04-28 214131](https://github.com/user-attachments/assets/d3e31950-5d09-4be1-9293-431521d723d5)
-
-
 ## Fig 4: cds.lib file Creation
 ![Screenshot 2025-04-28 214205](https://github.com/user-attachments/assets/d2a2f3a6-50e8-4d6d-be48-1a267a7c0e77)
 
