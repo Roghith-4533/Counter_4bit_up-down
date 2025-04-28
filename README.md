@@ -171,7 +171,8 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 	We are simulating verilog design without using any libraries
 
 ## Fig 5: Selection of Don’t include any libraries
-![Screenshot 2025-04-28 214205](https://github.com/user-attachments/assets/33b432b3-5fa7-43dd-8e51-ffd060bc869d)
+![Screenshot 2025-04-28 214145](https://github.com/user-attachments/assets/5ea4d222-ab47-4e5d-bbd7-04f2fb3f2b62)
+
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
 
@@ -250,8 +251,10 @@ It contains statements that map logical library names to their physical director
 	Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
+![Screenshot 2025-04-28 214344](https://github.com/user-attachments/assets/23aae5d5-a97d-44f5-b28f-7480799818bf)
 
 ## Fig 10: Simulation Waveform Window
+![Screenshot 2025-04-28 214421](https://github.com/user-attachments/assets/7d26949c-9e6f-4238-91f6-2e24aebbeb71)
 
 ## Fig 11: Simulation Waveform Window
 
